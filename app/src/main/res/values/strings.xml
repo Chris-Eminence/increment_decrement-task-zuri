@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Increment Task</string>
+    <string name="add_one">+1</string>
+    <string name="_1">-1</string>
+</resources>
